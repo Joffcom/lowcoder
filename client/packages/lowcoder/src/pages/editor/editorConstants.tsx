@@ -35,8 +35,7 @@ import {
   LeftTime,
   LeftTree,
   LeftVideo,
-  LeftSignature,
-  TimeLineIcon,
+  LeftSignature
 } from "lowcoder-design";
 
 export const CompStateIcon: {
@@ -102,5 +101,4 @@ export const CompStateIcon: {
   calendar: <LeftDate />,
   signature: <LeftSignature />,
   jsonLottie: <LeftJsonEditor />, //Added By Aqib Mirza
-  timeline: <TimeLineIcon />,
 };

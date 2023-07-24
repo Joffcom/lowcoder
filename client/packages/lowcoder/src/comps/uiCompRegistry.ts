@@ -110,8 +110,7 @@ export type UICompType =
   | "collapsibleContainer"
   | "calendar"
   | "signature"
-  | "jsonLottie" //Added By Aqib Mirza
-  | "timeline"
+  | "jsonLottie"; //Added By Aqib Mirza
 
 export const uiCompRegistry = {} as Record<UICompType | string, UICompManifest>;
 
