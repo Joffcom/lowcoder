@@ -1,5 +1,5 @@
 > **Note**  
-> Lowcoder continues from the abandoned Openblocks project. For more information [read our manifesto](MANIFESTO.md).
+> Lowcoder continues from the abandoned Openblocks project. For more information [read our manifesto](/MANIFESTO.md).
 
 <div align="center">
     <h1 style="border-bottom: none; margin-bottom: 0">Lowcoder</h1>
